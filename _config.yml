@@ -4,3 +4,6 @@ author: コシヒカリ
 description: >
   ご連絡はX（旧Twitter）のDMまでお願いいたします。
 lang: ja
+twitter:
+  username: user
+  card: summary_large_image
