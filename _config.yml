@@ -1,4 +1,6 @@
-author: azalea7788
-
-theme: minima
-google_analytics: G-NNNNNNNNNN  // Google Analyticsの有効化のために仮の値を設定
+remote_theme: "jekyll/minima@c6e74bb"
+google_analytics: UA-NNNNNNNN-N // Google Analyticsの有効化のために仮の値を設定
+author: コシヒカリ
+description: >
+  ご連絡はX（旧Twitter）のDMにお願いいたします。
+lang: ja
